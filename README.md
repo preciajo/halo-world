@@ -1,4 +1,8 @@
 halo-world
 ==========
 
-hello world in Halo land
+Editing Readme.md in the readme branch.
+
+Test 1, 2, 3.
+
+Changed text in the README.md file.
